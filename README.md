@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ryanmac-agent-twitter-client-mcp-badge.png)](https://mseep.ai/app/ryanmac-agent-twitter-client-mcp)
+
 # agent-twitter-client-mcp
 
 [![npm version](https://img.shields.io/npm/v/agent-twitter-client-mcp.svg)](https://www.npmjs.com/package/agent-twitter-client-mcp)
