@@ -40,9 +40,8 @@
   "author": "ryanmac",
   "license": "MIT",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^0.6.0",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "agent-twitter-client": "^0.0.18",
-    "agent-twitter-client-mcp": "^0.1.0",
     "dotenv": "^16.4.7",
     "winston": "^3.11.0",
     "zod": "^3.24.2"
