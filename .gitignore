@@ -38,4 +38,7 @@ Thumbs.db
 coverage/
 
 # TypeScript cache
-*.tsbuildinfo 
+*.tsbuildinfo
+
+# OMC state
+.omc/
