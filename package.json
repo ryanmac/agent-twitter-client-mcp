@@ -43,6 +43,7 @@
     "@modelcontextprotocol/sdk": "^1.26.0",
     "agent-twitter-client": "^0.0.18",
     "dotenv": "^16.4.7",
+    "path-to-regexp": "^8.4.0",
     "winston": "^3.11.0",
     "zod": "^3.24.2"
   },
