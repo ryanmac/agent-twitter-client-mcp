@@ -40,10 +40,18 @@
   "author": "ryanmac",
   "license": "MIT",
   "dependencies": {
+    "@hono/node-server": "^1.19.12",
     "@modelcontextprotocol/sdk": "^1.26.0",
     "agent-twitter-client": "^0.0.18",
     "dotenv": "^16.4.7",
+    "express-rate-limit": "^8.3.2",
+    "flatted": "^3.4.2",
+    "hono": "^4.12.9",
+    "js-yaml": "^4.1.1",
+    "minimatch": "^10.2.5",
     "path-to-regexp": "^8.4.0",
+    "picomatch": "^4.0.4",
+    "undici": "^7.24.6",
     "winston": "^3.11.0",
     "zod": "^3.24.2"
   },
